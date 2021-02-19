@@ -5,7 +5,7 @@ But 18 is not an even subset of 32 because 6 is not a factor of 32.
 Write a function with signature int isEvenSubset(int m, int n) that returns 1 if m is an even subset of n,
 otherwise it returns 0.
 * */
-public class Question3 {
+public class Question03 {
 
     public static void main(String[] args) {
         System.out.println(isEvenSubset(18,12));

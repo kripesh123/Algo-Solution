@@ -13,7 +13,7 @@ Array--Largest value--Smallest value--Difference--Return value
 {100, 19, -131, -140}--100---140--100 - (-140 ) = 240--1
 {80, -56, 11, -81}--80---81---80 - 80 = -161--0
 * */
-public class Question9 {
+public class Question09 {
     public static void main(String[] args) {
         int[] a = {100, 19, -131, -140};
         System.out.println(isEvenSpaced(a));

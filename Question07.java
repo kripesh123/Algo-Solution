@@ -13,7 +13,7 @@ Write a function named isSym that returns 1 if its array argument is a isSym arr
 If you are programming in Java or C#, the function signature is:
    int isSym (int [ ] a)
 * */
-public class Question7 {
+public class Question07 {
     public static void main(String[] args) {
         int[] a = {2, 7, 8, 9, 11, 13, 10};
         System.out.println(isSym(a));

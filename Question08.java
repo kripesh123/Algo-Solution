@@ -7,7 +7,7 @@ Write a function named isSub that returns 1 if its array argument is a Sub array
 If you are programming in Java or C#, the function signature is:
    int isSub (int [ ] a)
 * */
-public class Question8 {
+public class Question08 {
     public static void main(String[] args) {
         int[] a = {11, 5, 3, 2};
         System.out.println(isSub(a));

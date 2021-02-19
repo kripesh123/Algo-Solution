@@ -13,7 +13,7 @@ If you are C or C++ programmer
 int isHollow(int[ ] a, int len)
 where len is the number of elements in the array.
 * */
-public class Question4 {
+public class Question04 {
 
     public static void main(String[] args) {
         int [] a= {1,0,0,0,0,0,0,1,0};

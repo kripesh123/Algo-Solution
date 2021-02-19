@@ -12,7 +12,7 @@ hasKSmallFactors(7, 30) is true (since 5*6 = 30 and 5 < 7, 6 < 7).
 hasKSmallFactors(6, 14) is false (since the only way to factor 14 is 2*7 = 14 and 7 not less than 6)
 hasKSmallFactors(6, 30) is false (since 5*6 = 30, 6 not less than 6; 3 * 10 = 30, 10 not less than 6; 2 * 15 = 30, 15 not less than 6)
 * */
-public class Question6 {
+public class Question06 {
 
     public static void main(String[] args) {
         System.out.println(hasKSmallFactors(6,14));

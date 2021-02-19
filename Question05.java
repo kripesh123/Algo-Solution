@@ -11,7 +11,7 @@ fill({1,2,3,5, 9, 12,-2,-1}, 3, 10) returns {1,2,3,1,2,3,1,2,3,1}.
 fill({4, 2, -3, 12}, 1, 5)  returns {4, 4, 4, 4, 4}.
 fill({2, 6, 9, 0, -3}, 0, 4) returns null.
 * */
-public class Question5 {
+public class Question05 {
 
     public static void main(String[] args) {
         int [] array= {2, 6, 9, 0, -3};

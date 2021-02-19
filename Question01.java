@@ -7,7 +7,7 @@ int isBalanced (int [ ] a);
 If you are programming in C or C++, the function signature is
 int isBalanced(int a[ ], int len) where len is the number of elements in the array.
 * */
-public class Question1 {
+public class Question01 {
 
     public static void main(String[] args) {
         int[] array = {-5, 2, -2} ;

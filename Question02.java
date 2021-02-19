@@ -11,7 +11,7 @@ int isTwinoid (int [ ] a);
 If you are programming in C or C++, the function signature is
 int isTwinoid(int a[ ], int len) where len is the number of elements in the array.
 * */
-public class Question2 {
+public class Question02 {
 
     public static void main(String[] args) {
         int[] array= {3, 3, 2, 6, 5, 7};
